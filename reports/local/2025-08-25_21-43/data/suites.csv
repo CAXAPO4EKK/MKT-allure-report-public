@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Check Incorrect email in LogIn Page","261","loginNegativeEmailTest()","","Mon Aug 25 21:43:37 CEST 2025","broken","Mon Aug 25 21:43:38 CEST 2025","","Tests.SignInResetPasswordProfileWEB.LoginTest","Tests.SignInResetPasswordProfileWEB.LoginTest","loginNegativeEmailTest"
+"Check Incorrect Password in LogIn Page","4296","loginNegativePasswordTest()","","Mon Aug 25 21:43:38 CEST 2025","passed","Mon Aug 25 21:43:42 CEST 2025","","Tests.SignInResetPasswordProfileWEB.LoginTest","Tests.SignInResetPasswordProfileWEB.LoginTest","loginNegativePasswordTest"
+"Verify that the user can log in with valid credentials","1733","loginPositiveTest()","","Mon Aug 25 21:43:42 CEST 2025","passed","Mon Aug 25 21:43:44 CEST 2025","","Tests.SignInResetPasswordProfileWEB.LoginTest","Tests.SignInResetPasswordProfileWEB.LoginTest","loginPositiveTest"
