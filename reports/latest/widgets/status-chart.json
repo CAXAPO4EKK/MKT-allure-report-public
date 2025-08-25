@@ -1,1 +1,1 @@
-[]
+[{"uid":"fa978e6de313f9a3","name":"loginNegativePasswordTest()","time":{"start":1756148152487,"stop":1756148153859,"duration":1372},"status":"passed","severity":"normal"},{"uid":"99d1737b5abe16fe","name":"loginPositiveTest()","time":{"start":1756148153863,"stop":1756148155573,"duration":1710},"status":"passed","severity":"blocker"},{"uid":"6b63c0d09aef7b5c","name":"loginNegativeEmailTest()","time":{"start":1756148150397,"stop":1756148152438,"duration":2041},"status":"passed","severity":"normal"}]
