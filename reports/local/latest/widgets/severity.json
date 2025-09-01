@@ -1,1 +1,1 @@
-[{"uid":"3d8fa990dbb41fe3","name":"negativeConfirmingResetPass()","time":{"start":1756696621788,"stop":1756696624415,"duration":2627},"status":"passed","severity":"normal"},{"uid":"d15d2ebf9d2114dc","name":"positivePasswordReq()","time":{"start":1756696620731,"stop":1756696621775,"duration":1044},"status":"passed","severity":"critical"},{"uid":"c47b741d4c0a97a2","name":"negativePasswordReq()","time":{"start":1756696616151,"stop":1756696620649,"duration":4498},"status":"passed","severity":"normal"}]
+[]
